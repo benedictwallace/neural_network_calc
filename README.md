@@ -1,1 +1,2 @@
-"# neural_network_calc" 
+Calculator using neural network
+
